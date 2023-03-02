@@ -42,7 +42,7 @@ Ferramentas usadas e recomendadas:
 
 ## 📄 Projeto por:
 
-Este projeto foi disponibilizado pela Oracle Next Education - Acompanhe-nos [ProjetoOne+Alura]https://www.oracle.com/br/education/oracle-next-education/) para detalhes.
+Este projeto foi disponibilizado pela Oracle Next Education - Acompanhe-nos [ProjetoOne+Alura](https://www.oracle.com/br/education/oracle-next-education/) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
